@@ -6,7 +6,7 @@ target/
 /src/main/resources
 .mvn
 mvnw
-mvnw
+mvnw.cmd
 /src/test
 
 ### STS ###
